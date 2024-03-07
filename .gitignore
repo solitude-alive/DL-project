@@ -1,0 +1,17 @@
+# Ignore the <.idea> directory
+.idea
+
+# Ignore the <__pycache__> directory
+__pycache__
+
+# Ignore the <checkpoints> directory
+checkpoints
+
+# Ignore the <datasets> directory except the <datasets/bibtex> directory, <.py> files and <.sh> files
+datasets/*
+!bibtex/
+!*.py
+!*.sh
+
+
+
