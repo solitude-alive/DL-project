@@ -1,7 +1,10 @@
-This a framework about DeepLearning Project.
+# Pixel-to-Pixel project
 
-Give an example about [cycle-gan](https://junyanz.github.io/CycleGAN/) 
+This is the project about Pixel-to-Pixel task. Give an example about [cycle-gan](https://junyanz.github.io/CycleGAN/) 
 and [pix2pix](https://phillipi.github.io/pix2pix/).
+
+This project can also serve as a structure for deep learning projects.
+
 
 ## Project Structure
 ```
